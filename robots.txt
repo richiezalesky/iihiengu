@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohchaechee.panwriter.com/sitemap.xml
